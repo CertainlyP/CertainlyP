@@ -50,8 +50,7 @@ areas_of_interest:
 
 📫 Connect With Me
 
-    🐦 Twitter: @YourHandle (update with your handle)
-    💼 LinkedIn: Your LinkedIn (update with your profile)
+    🐦 Twitter: @ExpectedErr0r (https://x.com/ExpectedErr0r)
     🔗 GitHub: @CertainlyP
 
 🤝 Collaboration
